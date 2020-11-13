@@ -1,0 +1,322 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://www.w3.org/2002/07/owl#Definitions>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#Human_Values>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#Rights_Sub_Provisions>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#Value_Items_that_explain_value>
+  a <https://www.w3.org/2002/07/owl#Class> ;
+
+<https://www.w3.org/2002/07/owl#Self-direction-_action>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Freedom_to_determine_ones_own_actions> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#choosing_own_goals-own_purposes>, <https://www.w3.org/2002/07/owl#independent-self-reliant>, <https://www.w3.org/2002/07/owl#privacy> .
+
+<https://www.w3.org/2002/07/owl#Freedom_to_determine_ones_own_actions> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#choosing_own_goals-own_purposes> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#independent-self-reliant> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#privacy> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Power-_resources>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Power_through_control_of_material_and_social_resources> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#wealth-material_possessions> .
+
+<https://www.w3.org/2002/07/owl#Power_through_control_of_material_and_social_resources> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#wealth-material_possessions> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Power-_dominance>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Power_through_exercising_control_over_people> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#social_power-control_over_others>, <https://www.w3.org/2002/07/owl#authority-right_to_command> .
+
+<https://www.w3.org/2002/07/owl#Power_through_exercising_control_over_people> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#social_power-control_over_others> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#authority-right_to_command> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Face>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Maintaining_ones_public_image_and_avoiding_humiliation> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#social_recognition-respect>, <https://www.w3.org/2002/07/owl#preserving_public_image-maintaining_face> .
+
+<https://www.w3.org/2002/07/owl#Maintaining_ones_public_image_and_avoiding_humiliation> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#social_recognition-respect> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#preserving_public_image-maintaining_face> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Security-_personal>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Safety_in_ones_immediate_environment> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#sense_of_belonging-feeling_others_care_about_me>, <https://www.w3.org/2002/07/owl#healthy-_not_sick>, <https://www.w3.org/2002/07/owl#reciprocating_favors-avoiding_indebtedness>, <https://www.w3.org/2002/07/owl#clean-neat_tidy>, <https://www.w3.org/2002/07/owl#family_security-safety_for_loved_ones> .
+
+<https://www.w3.org/2002/07/owl#Safety_in_ones_immediate_environment> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#sense_of_belonging-feeling_others_care_about_me> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#healthy-_not_sick> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#reciprocating_favors-avoiding_indebtedness> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#clean-neat_tidy> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#family_security-safety_for_loved_ones> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Universalism-_concern>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Commitment_to_equality_justice_and_protection_for_all_people> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#equality_for_all>, <https://www.w3.org/2002/07/owl#social_justice>, <https://www.w3.org/2002/07/owl#world_at_peace> .
+
+<https://www.w3.org/2002/07/owl#Commitment-to-equality-justice-and-protection-for-all-people> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#equality_for_all> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#social_justice> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#world_at_peace> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Security-_societal>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Safety_and_stability_in_the_wider_society> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#national_security-nation_safe_from_enemies>, <https://www.w3.org/2002/07/owl#social_order-societal_stability> .
+
+<https://www.w3.org/2002/07/owl#Safety_and_stability_in_the_wider_society> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#national_security-nation_safe_from_enemies> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#social_order-societal_stability> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Conformity-_rules>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Compliance_with_rules_laws_and_formal_obligations> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#self-discipline-resist_temptation>, <https://www.w3.org/2002/07/owl#obedient-meet_obligations> .
+
+<https://www.w3.org/2002/07/owl#Compliance_with_rules_laws_and_formal_obligations> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#self-discipline-resist_temptation> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#obedient-meet_obligations> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Benevolence-_caring>
+  a <https://www.w3.org/2002/07/owl#Human_Values> ;
+  rdfs:hasDefinition <https://www.w3.org/2002/07/owl#Devotion_to_the_welfare_of_in-group_members> ;
+  rdfs:hasExplanation <https://www.w3.org/2002/07/owl#family_security-safety_for_loved_ones>, <https://www.w3.org/2002/07/owl#helpful-working_for_others_welfare>, <https://www.w3.org/2002/07/owl#forgiving-willing_to_pardon>, <https://www.w3.org/2002/07/owl#honest-genuine> .
+
+<https://www.w3.org/2002/07/owl#Devotion_to_the_welfare_of_in-group_members> a <https://www.w3.org/2002/07/owl#Definitions> .
+<https://www.w3.org/2002/07/owl#family_security-safety_for_loved_ones> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#helpful-working_for_others_welfare> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#forgiving-willing_to_pardon> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+<https://www.w3.org/2002/07/owl#honest-genuine> a <https://www.w3.org/2002/07/owl#Value_Items_that_explain_value> .
+
+<https://www.w3.org/2002/07/owl#Accuracy>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Implicit_link <https://www.w3.org/2002/07/owl#Self-direction-action>, <https://www.w3.org/2002/07/owl#Power-dominance>, <https://www.w3.org/2002/07/owl#Face> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Power-resources> .
+
+<https://www.w3.org/2002/07/owl#Lawfulness>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Power-dominance>, <https://www.w3.org/2002/07/owl#Universalism–concern> ;
+  rdfs:Implicit_link <https://www.w3.org/2002/07/owl#Conformity–rules> .
+
+<https://www.w3.org/2002/07/owl#Fairness>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Universalism–concern>, <https://www.w3.org/2002/07/owl#Security–societal>, <https://www.w3.org/2002/07/owl#Conformity–rules>, <https://www.w3.org/2002/07/owl#Benevolence–caring> .
+
+<https://www.w3.org/2002/07/owl#Purpose_Limitation>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Implicit_link <https://www.w3.org/2002/07/owl#Self-direction-action> .
+
+<https://www.w3.org/2002/07/owl#Storage_Limitation>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Power–resources>, <https://www.w3.org/2002/07/owl#Power–dominance> .
+
+<https://www.w3.org/2002/07/owl#Data_Minimization>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Security–societal> .
+
+<https://www.w3.org/2002/07/owl#Integrity_and_Confidentiality>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Implicit_link <https://www.w3.org/2002/07/owl#Security–personal> .
+
+<https://www.w3.org/2002/07/owl#Transparency>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Protection_Principles> ;
+  rdfs:Explicit_Link <https://www.w3.org/2002/07/owl#Security–personal>, <https://www.w3.org/2002/07/owl#Universalism–concern>, <https://www.w3.org/2002/07/owl#Security–societal>, <https://www.w3.org/2002/07/owl#Conformity–rules>, <https://www.w3.org/2002/07/owl#Benevolence–caring> .
+
+<https://www.w3.org/2002/07/owl#Right-to-transparency-Article-12>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-12>, <https://www.w3.org/2002/07/owl#concise>, <https://www.w3.org/2002/07/owl#easily-accessible>, <https://www.w3.org/2002/07/owl#intelligible>, <https://www.w3.org/2002/07/owl#transparent> .
+
+<https://www.w3.org/2002/07/owl#Right-to-basic-Information-about-processing-Article-13-14>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-13-14>, <https://www.w3.org/2002/07/owl#Information-about-Third-Parties> .
+
+<https://www.w3.org/2002/07/owl#Right-of-access-Article-15>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-15>, <https://www.w3.org/2002/07/owl#If-and-where-Controller-is-processing-data>, <https://www.w3.org/2002/07/owl#Automated-processing-with-significant-effects-on-data-subject>, <https://www.w3.org/2002/07/owl#Categories-of-data-being-processed>, <https://www.w3.org/2002/07/owl#Categories-of-recipients-data-is-shared-with>, <https://www.w3.org/2002/07/owl#Existence-of-Rights>, <https://www.w3.org/2002/07/owl#Information-about-Processing>, <https://www.w3.org/2002/07/owl#Source-of-Data>, <https://www.w3.org/2002/07/owl#No-charges-levied>, <https://www.w3.org/2002/07/owl#Storage-Period> .
+
+<https://www.w3.org/2002/07/owl#Right-to-rectification-Article-16>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-16> .
+
+<https://www.w3.org/2002/07/owl#Right-to-erasure-Article-17>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-17>, <https://www.w3.org/2002/07/owl#Erase-when-consent-was-withdrawn>, <https://www.w3.org/2002/07/owl#Erase-when-data-is-no-longer-needed-for-original-purpose> .
+
+<https://www.w3.org/2002/07/owl#Right-to-restrict-processing-Article-18>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-18>, <https://www.w3.org/2002/07/owl#When-accuracy-is-contested>, <https://www.w3.org/2002/07/owl#Data-no-longer-needed-for-original-purpose>, <https://www.w3.org/2002/07/owl#Processin-is-unlawful> .
+
+<https://www.w3.org/2002/07/owl#Right-to-data-portability-Article-20>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-20>, <https://www.w3.org/2002/07/owl#Provide-copy-of-Personal-Data>, <https://www.w3.org/2002/07/owl#Should-be-machine-readable>, <https://www.w3.org/2002/07/owl#Should-support-reuse>, <https://www.w3.org/2002/07/owl#Should-be-commonly-used-format>, <https://www.w3.org/2002/07/owl#Should-be-structured> .
+
+<https://www.w3.org/2002/07/owl#Right-to-object-Article-21>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-21>, <https://www.w3.org/2002/07/owl#Object-to-processing>, <https://www.w3.org/2002/07/owl#Object-to-direct-marketing> .
+
+<https://www.w3.org/2002/07/owl#Rights-over-automated-decisions-Article-22>
+  a <https://www.w3.org/2002/07/owl#GDPR_Data_Subject_Rights> ;
+  rdfs:has <https://www.w3.org/2002/07/owl#Overall-Article-22> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-12>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#concise>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#easily-accessible>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#intelligible>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#transparent>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-13-14>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#fairness> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency>, <https://www.w3.org/2002/07/owl#purpose-limitation> .
+
+<https://www.w3.org/2002/07/owl#Information-about-Third-Parties>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#storage-limitation> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency>, <https://www.w3.org/2002/07/owl#integrity-confidentiality> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-15>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#lawfulness>, <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#If-and-where-Controller-is-processing-data>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency>, <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Automated-processing-with-significant-effects-on-data-subject>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#fairness> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Categories-of-data-being-processed>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Categories-of-recipients-data-is-shared-with>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency>, <https://www.w3.org/2002/07/owl#integrity-confidentiality> .
+
+<https://www.w3.org/2002/07/owl#Existence-of-Rights>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#lawfulness> .
+
+<https://www.w3.org/2002/07/owl#Information-about-Processing>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#purpose-limitation> .
+
+<https://www.w3.org/2002/07/owl#Source-of-Data>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#lawfulness> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#No-charges-levied>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#lawfulness> .
+
+<https://www.w3.org/2002/07/owl#Storage-Period>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-16>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#accuracy> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-17>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#purpose-limitation>, <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Erase-when-consent-was-withdrawn>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#lawfulness> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Erase-when-data-is-no-longer-needed-for-original-purpose>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#purpose-limitation>, <https://www.w3.org/2002/07/owl#storage-limitation> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-18>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#lawfulness>, <https://www.w3.org/2002/07/owl#purpose-limitation>, <https://www.w3.org/2002/07/owl#accuracy> .
+
+<https://www.w3.org/2002/07/owl#When-accuracy-is-contested>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#accuracy> .
+
+<https://www.w3.org/2002/07/owl#Data-no-longer-needed-for-original-purpose>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#purpose-limitation> .
+
+<https://www.w3.org/2002/07/owl#Processin-is-unlawful>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#lawfulness> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-20>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Provide-copy-of-Personal-Data>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Should-be-machine-readable>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Should-support-reuse>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Should-be-commonly-used-format>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Should-be-structured>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#transparency> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-21>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#lawfulness> .
+
+<https://www.w3.org/2002/07/owl#Object-to-processing>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#lawfulness> .
+
+<https://www.w3.org/2002/07/owl#Object-to-direct-marketing>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#fairness>, <https://www.w3.org/2002/07/owl#lawfulness>, <https://www.w3.org/2002/07/owl#purpose-limitation> .
+
+<https://www.w3.org/2002/07/owl#Overall-Article-22>
+  a <https://www.w3.org/2002/07/owl#Rights_Sub_Provisions> ;
+  rdfs:denotes-direct-link <https://www.w3.org/2002/07/owl#fairness> ;
+  rdfs:denotes-derived-link <https://www.w3.org/2002/07/owl#lawfulness>, <https://www.w3.org/2002/07/owl#purpose-limitation>, <https://www.w3.org/2002/07/owl#accuracy> .+
